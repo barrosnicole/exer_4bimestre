@@ -1,0 +1,13 @@
+1)faça um programa que leia um número inteiro e mostre na tela os eu antessessor.
+
+2)crie um algoritimo que leia um número e mostre o seu dobro e triplo.
+
+3)escreva um programa que leia um valor em metros e o exiba convertiddo em centimetros e milimetros.
+
+4)faça um programa que leia um número inteiro qualquer e mostre na tela a sua tabuada.
+
+5)crie um programa que leia quanto dinheiro uma pessoa tem na carteira e mostre quantos dólares ela pode comprar.
+
+
+
+app python para celular:pydroid- ide for python 3
