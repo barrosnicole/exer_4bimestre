@@ -6,7 +6,7 @@ c2=(n1*3)+n3
 c3=(n3)**3
 print('o produto do dobro do primeiro com metade do segundo é: {}'.format(c1))
 print('a soma do trilo do primeiro com o terceiro é: {}'.format(c2))
-print('o terceiro elevado ao cubo é:{} '.format(c3))
+print('o terceiro elevado ao cubo é:{} '.format(c3)) 
       
       
     
