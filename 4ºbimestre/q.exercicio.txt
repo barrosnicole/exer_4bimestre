@@ -10,6 +10,8 @@
 
 7)crie um algoritimo que peça um numero inteiro qualquer e mostre  na tela se ele é impar ou par.
 
+8)
+
 
 
 app python para celular:pydroid- ide for python 3
