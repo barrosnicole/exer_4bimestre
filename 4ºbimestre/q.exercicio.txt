@@ -9,9 +9,21 @@
 5)crie um programa que leia quanto dinheiro uma pessoa tem na carteira e mostre quantos d�lares ela pode comprar.
 
 7)crie um algoritimo que peça um numero inteiro qualquer e mostre  na tela se ele é impar ou par.
+SE O RESTO DA DIVISÃO FOR 0, O RESULTADO É PAR.
+SE O RESTO DA DIVISÃO FOR 1, O RESULTADO É IMPAR.
+RESTO:%2
 
 8)
 
 
 
 app python para celular:pydroid- ide for python 3
+
+input
+print
+if
+else
+==
+=
+cc
+VARIAVEL
