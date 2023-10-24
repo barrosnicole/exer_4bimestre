@@ -1,12 +1,14 @@
-1)faça um programa que leia um número inteiro e mostre na tela os eu antessessor.
+1)faï¿½a um programa que leia um nï¿½mero inteiro e mostre na tela os eu antessessor.
 
-2)crie um algoritimo que leia um número e mostre o seu dobro e triplo.
+2)crie um algoritimo que leia um nï¿½mero e mostre o seu dobro e triplo.
 
 3)escreva um programa que leia um valor em metros e o exiba convertiddo em centimetros e milimetros.
 
-4)faça um programa que leia um número inteiro qualquer e mostre na tela a sua tabuada.
+4)faï¿½a um programa que leia um nï¿½mero inteiro qualquer e mostre na tela a sua tabuada.
 
-5)crie um programa que leia quanto dinheiro uma pessoa tem na carteira e mostre quantos dólares ela pode comprar.
+5)crie um programa que leia quanto dinheiro uma pessoa tem na carteira e mostre quantos dï¿½lares ela pode comprar.
+
+7)crie um algoritimo que peÃ§a um numero inteiro qualquer e mostre  na tela se ele Ã© impar ou par.
 
 
 
